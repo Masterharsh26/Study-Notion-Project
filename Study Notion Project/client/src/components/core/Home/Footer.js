@@ -60,7 +60,7 @@ export default function Footer() {
                 <div className='hover:text-richblack-5'>Terms</div>
             </Link>
             </div>
-            <div>Made with ❤️ By Kashish Gupta</div>
+            <div>Made with ❤️ By Harsh Kumar</div>
         </div>
     </div>
   )
